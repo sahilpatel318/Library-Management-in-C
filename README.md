@@ -57,7 +57,7 @@ The **Library Management System** is a robust command-line application developed
 
 **Sahil Patel**
 - Computer Programming and Analysis Student
-- [GitHub Profile](https://github.com/yourusername)
+- [GitHub Profile](https://github.com/sahilpatel318)
 
 Feel free to explore, modify, and contribute to this project!
 
